@@ -1,0 +1,1 @@
+alter table tbl_alarma add column vista int(1) default 0;
